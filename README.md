@@ -1,10 +1,7 @@
 ### Olá! Eu sou o Bruno Couto 👋
 
 ##
-- 🔭 Atualmente eu trabalho como analista de suporte, atuo no suporte de um software CRM de automação de força de vendas,
-presto suporte em algumas plataformas como IOS, ANDROID e WINDOWS....
-- 🌱 Estudando linguagens Front-End ...
-- 😄 Pronomes: ele/dele ...
+
 
 <div align="center">
   <a href="https://github.com/Bcouto19">
