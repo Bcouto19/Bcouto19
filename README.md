@@ -3,13 +3,11 @@
 - 🔭 Atualmente eu trabalho como analista de suporte, atuo no suporte de um software CRM de automação de força de vendas,
 presto suporte em algumas plataformas como IOS, ANDROID e WINDOWS....
 - 🌱 Estudando linguagens Front-End ...
-
-  <div align="center"/>
+ <div align="center"/>
     <a href="https://github.com/Bcouto19">
     <img  height="180px" src="https://github-readme-stats.vercel.app/api?username=Bcouto19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bcouto19&layout=compact&langs_count=7&theme=dark"/>
-  </div>
-
+    <img align="top - right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bcouto19&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Couto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Couto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
