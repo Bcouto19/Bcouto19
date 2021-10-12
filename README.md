@@ -10,8 +10,8 @@ presto suporte em algumas plataformas como IOS, ANDROID e WINDOWS....
 
 <div style="display: inline_block" aling="center"/>
   <a href="https://github.com/Bcouto19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bcouto19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em"em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bcouto19&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Bcouto19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180px"em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bcouto19&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Couto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
