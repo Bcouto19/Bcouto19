@@ -8,7 +8,7 @@ presto suporte em algumas plataformas como IOS, ANDROID e WINDOWS....
 ##
 
 
-<div aling="center" >
+<div aling="center" display:"inline-block"/>
   <a href="https://github.com/Bcouto19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bcouto19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="179em"em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bcouto19&layout=compact&langs_count=7&theme=dark"/>
