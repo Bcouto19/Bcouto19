@@ -3,7 +3,6 @@
 - 🔭 Atualmente eu trabalho como analista de suporte, atuo no suporte de um software CRM de automação de força de vendas,
 presto suporte em algumas plataformas como IOS, ANDROID e WINDOWS....
 - 🌱 Estudando linguagens Front-End ...
--🎯 Interesses no momento: Html, JavaScript e CSS
  <div align="center"/>
     <a href="https://github.com/Bcouto19">
     <img  height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=Bcouto19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
